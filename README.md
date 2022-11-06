@@ -4,13 +4,16 @@
 
 - I'm a Java Backend developer
 
-<br>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanbv1510&layout=compact&text_color=df6d74&bg_color=282c34)
+
+</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanbv1510&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=onedark" alt="ThanBV Github Stats">
 
 </br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanbv1510&layout=compact&text_color=df6d74&bg_color=282c34)
+ <p><img src="https://github-readme-streak-stats.herokuapp.com?user=thanbv1510&theme=onedark&border=e4e2e2" alt="thanbv1510" /></p>
 
 ### Connect with me
 
