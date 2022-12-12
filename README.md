@@ -2,8 +2,6 @@
 
 ### About Me
 
-- I'm a Java Backend developer
-
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanbv1510&layout=compact&text_color=df6d74&bg_color=282c34)
